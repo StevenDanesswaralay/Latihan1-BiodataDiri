@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="#8FBC8F">
+
+
+    <TextView
+        android:id="@+id/biodata"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/my_biodata"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        />
+
+
+    <ImageView
+        android:id="@+id/profil"
+        android:layout_width="200dp"
+        android:layout_height="150dp"
+        android:src="@drawable/profile"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/biodata"/>
+
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:background="#E0FFFF"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/profil">
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nama_steven_danesswaralay"
+        android:layout_marginStart="25dp"
+        android:textSize="20sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nim_10118078"
+        android:layout_marginStart="25dp"
+        android:textSize="20sp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/kelas_if_2"
+        android:layout_marginStart="25dp"
+        android:textSize="20sp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/jenis_kelamin_laki_laki"
+        android:layout_marginStart="25dp"
+        android:textSize="20sp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ttl_cilegon_04_september_2000"
+        android:layout_marginStart="25dp"
+        android:textSize="20sp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/alamat_rumah_ruko_bukit_kawi_permai_no_17_a"
+        android:layout_marginStart="25dp"
+        android:textSize="20sp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/golongan_darah_a"
+        android:layout_marginStart="25dp"
+        android:textSize="20sp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/makanan_kesukaan_sop_daging"
+        android:layout_marginStart="25dp"
+        android:textSize="20sp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/minuman_kesukaan_jus_jambu"
+        android:layout_marginStart="25dp"
+        android:textSize="20sp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hobi_bermain_basket"
+        android:layout_marginStart="25dp"
+        android:textSize="20sp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lagu_favorit_seperti_kisah"
+        android:layout_marginStart="25dp"
+        android:textSize="20sp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/film_favorit_marvel"
+        android:layout_marginStart="25dp"
+        android:textSize="20sp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pekerjaan_yang_di_inginkan_setelah_kuliah_wirasswasta"
+        android:layout_marginStart="25dp"
+        android:textSize="20sp"
+        />
+
+</LinearLayout>
+        </ScrollView>
+</RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyBiodata</string>
+    <string name="my_biodata">My Biodata</string>
+    <string name="nama_steven_danesswaralay">Nama : Steven Danesswaralay</string>
+    <string name="nim_10118078">NIM : 10118078</string>
+    <string name="kelas_if_2">KELAS : IF-2</string>
+    <string name="jenis_kelamin_laki_laki">JENIS KELAMIN : LAKI LAKI</string>
+    <string name="ttl_cilegon_04_september_2000">TTL : CILEGON, 04 SEPTEMBER 2000</string>
+    <string name="alamat_rumah_ruko_bukit_kawi_permai_no_17_a">ALAMAT RUMAH : RUKO BUKIT KAWI PERMAI NO 17 A</string>
+    <string name="golongan_darah_a">GOLONGAN DARAH : A</string>
+    <string name="makanan_kesukaan_sop_daging">MAKANAN KESUKAAN : SOP DAGING</string>
+    <string name="minuman_kesukaan_jus_jambu">MINUMAN KESUKAAN : JUS JAMBU</string>
+    <string name="hobi_bermain_basket">HOBI : BERMAIN BASKET</string>
+    <string name="lagu_favorit_seperti_kisah">LAGU FAVORIT : SEPERTI KISAH</string>
+    <string name="film_favorit_marvel">FILM FAVORIT :MARVEL</string>
+    <string name="pekerjaan_yang_di_inginkan_setelah_kuliah_wirasswasta">PEKERJAAN YANG DI INGINKAN SETELAH KULIAH : WIRASSWASTA</string>
+</resources>
